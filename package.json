@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "@nomicfoundation/hardhat-verify": "^3.0.10"
+  },
+  "dependencies": {
+    "pino-pretty": "^13.1.3"
   }
 }

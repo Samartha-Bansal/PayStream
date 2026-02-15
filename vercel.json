@@ -1,5 +1,0 @@
-{
-    "framework": "nextjs",
-    "buildCommand": "cd paystream-frontend && npm run build",
-    "outputDirectory": "paystream-frontend/.next"
-}
